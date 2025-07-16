@@ -1,0 +1,98 @@
+[
+    {
+        "nome": "Marinada do Frango",
+        "ingredientes": [
+            [
+                "Alho cru",
+                6
+            ],
+            [
+                "Cebola Crua",
+                141
+            ],
+            [
+                "Limão tahiti cru",
+                16
+            ],
+            [
+                "Óleo de Soja",
+                10
+            ],
+            [
+                "Salsa",
+                27
+            ],
+            [
+                "Folha de Louro Especiarias da'roça",
+                0
+            ],
+            [
+                "Pimenta do Reino",
+                0
+            ],
+            [
+                "Sal",
+                1
+            ],
+            [
+                "Água",
+                800
+            ]
+        ],
+        "rendimento_total": 1000
+    },
+    {
+        "nome": "Frango Desfiado",
+        "ingredientes": [
+            [
+                "Sassami de frango Sadia",
+                492
+            ],
+            [
+                "Alho cru",
+                5
+            ],
+            [
+                "Sal",
+                2
+            ]
+        ],
+        "rendimento_total": 281
+    },
+    {
+        "nome": "Frango na Airfryer",
+        "ingredientes": [
+            [
+                "Sassami de frango Sadia",
+                563
+            ],
+            [
+                "Sal",
+                1
+            ]
+        ],
+        "rendimento_total": 260
+    },
+    {
+        "nome": "Arroz Cozido",
+        "ingredientes": [
+            [
+                "Arroz Tio Manoel",
+                1000
+            ],
+            [
+                "Alho cru",
+                5
+            ],
+            [
+                "Óleo de Soja",
+                8
+            ],
+            [
+                "Água",
+                2000
+            ]
+        ],
+        "rendimento_total": 3000
+    }
+]

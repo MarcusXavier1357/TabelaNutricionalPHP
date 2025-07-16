@@ -1,0 +1,2 @@
+php
+As paginas quando usadas tao voltando pro inicio
